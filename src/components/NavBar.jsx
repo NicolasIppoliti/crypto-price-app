@@ -36,7 +36,7 @@ export default function NavBar() {
             </li>
           </ul>
         </div>
-        <a className="text-xl btn btn-ghost">cryptoPrice</a>
+        <a href="/" className="text-xl btn btn-ghost">cryptoPrice</a>
       </div>
       <div className="hidden navbar-center lg:flex">
         <ul className="px-1 menu menu-horizontal">
